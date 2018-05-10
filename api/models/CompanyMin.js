@@ -1,0 +1,1 @@
+module.exports={attributes:{name:{type:"string",required:!0},city:{type:"string"},address:{type:"string"}}};

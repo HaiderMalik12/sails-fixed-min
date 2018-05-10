@@ -1,0 +1,1 @@
+module.exports = { create: (req, res) => res.ok("Ok!"), find(req, res) {}, findOne(req, res) {}, update(req, res) {}, delete(req, res) {} };
